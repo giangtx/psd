@@ -1,0 +1,5 @@
+- import PDF (đọc file PSD và convert to design object)
+- editor (Xây dựng page editor, element edit và menu option của mỗi element)
+    - chức năng: add element, kéo thả, chỉnh sửa
+    - element và bộ option của element: Text, image...
+- export (export thành PNG... )
